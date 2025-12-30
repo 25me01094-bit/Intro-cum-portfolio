@@ -8,8 +8,7 @@ The project is developed using **pure HTML, CSS, and JavaScript**, focusing on c
 
 ## 📌 Live Demo
 🔗 **Live Website:**  
-https://25me01094-bit.github.io/Portfolio-Website/  
-*(replace with your actual deployed link if different)*
+https://25me01094-bit.github.io/Intro-cum-portfolio/
 
 ---
 
@@ -29,7 +28,7 @@ Each page follows a **consistent design system** and shares a common navigation 
 
 - **HTML5** – Semantic structure
 - **CSS3** – Flexbox, gradients, animations, media queries
-- **JavaScript (Vanilla)** – DOM manipulation & UI logic
+- **JavaScript** – DOM manipulation & UI logic
 - **Font Awesome** – Icons
 - **Google Fonts (Poppins)** – Typography
 
